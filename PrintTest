@@ -1,1 +1,2 @@
 print("Whole Worlds!")
+print(4 + 7)
