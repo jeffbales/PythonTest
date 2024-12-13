@@ -1,1 +1,1 @@
-Playing Python
+Playing with first Python
